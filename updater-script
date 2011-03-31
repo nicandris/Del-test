@@ -1,5 +1,7 @@
 show_progress(0,0);
 ui_print("");
+ui_print("");
+ui_print("");
 ui_print("************************************************");
 ui_print("*       nicandris Deletion Script v0.1:        *");
 ui_print("* -------------------------------------------- *");
