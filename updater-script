@@ -3,7 +3,7 @@ ui_print("");
 ui_print("************************************************");
 ui_print("*       nicandris Deletion Script v0.1:        *");
 ui_print("* -------------------------------------------- *");
-ui_print("* Follow us on twitter:                        *");
+ui_print("*            Follow us on twitter:             *");
 ui_print("* -------------------------------------------- *");
 ui_print("*                                              *");
 ui_print("*                @nicandris                    *");
